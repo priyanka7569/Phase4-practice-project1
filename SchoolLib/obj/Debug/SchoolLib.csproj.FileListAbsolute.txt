@@ -1,0 +1,15 @@
+D:\phase4 practice project1\SchoolLib\SchoolLib\obj\Debug\SchoolLib.csproj.AssemblyReference.cache
+D:\phase4 practice project1\SchoolLib\SchoolLib\obj\Debug\SchoolLib.csproj.CoreCompileInputs.cache
+D:\phase4 practice project1\SchoolLib\SchoolLib\bin\Debug\SchoolLib.dll
+D:\phase4 practice project1\SchoolLib\SchoolLib\bin\Debug\SchoolLib.pdb
+D:\phase4 practice project1\SchoolLib\SchoolLib\obj\Debug\SchoolLib.dll
+D:\phase4 practice project1\SchoolLib\SchoolLib\obj\Debug\SchoolLib.pdb
+D:\phase4 practice project1\SchoolLib\SchoolLib\bin\Debug\NUnit3.TestAdapter.dll
+D:\phase4 practice project1\SchoolLib\SchoolLib\bin\Debug\NUnit3.TestAdapter.pdb
+D:\phase4 practice project1\SchoolLib\SchoolLib\bin\Debug\nunit.engine.dll
+D:\phase4 practice project1\SchoolLib\SchoolLib\bin\Debug\nunit.engine.api.dll
+D:\phase4 practice project1\SchoolLib\SchoolLib\bin\Debug\nunit.engine.core.dll
+D:\phase4 practice project1\SchoolLib\SchoolLib\bin\Debug\testcentric.engine.metadata.dll
+D:\phase4 practice project1\SchoolLib\SchoolLib\bin\Debug\nunit.framework.dll
+D:\phase4 practice project1\SchoolLib\SchoolLib\bin\Debug\nunit.framework.xml
+D:\phase4 practice project1\SchoolLib\SchoolLib\obj\Debug\SchoolLib.csproj.CopyComplete
